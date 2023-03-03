@@ -4,9 +4,9 @@
   "description": "Sign_Up_App",
   "main": "app.js",
   "scripts": {
-    
-    "start": "node app.js"
-
+    "start": "node app.js",
+    "build": "echo success",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dhruv Maheshwari",
   "license": "ISC",
